@@ -1,4 +1,5 @@
-print('Simple canculator app')
+print('A canculator app')
+
 
 
 num1=float(input('Enter 1st num:'))
@@ -19,3 +20,4 @@ elif choice == '3':
     print('Multiply is :',num1*num2)
 elif choice =='4':
     print('Division is :',num2/num1)
+
